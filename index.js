@@ -2,7 +2,7 @@
 
 const isOdd = require('is-odd');
 
-module.exports = function isEvent(value) {
+module.exports = function isEvennot(value) {
 	return isOdd(value);
 }
 
